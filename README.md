@@ -10,4 +10,8 @@ CNN VHDL generator based on Python (Beta version) version 1.0.0
   Rectified Linear Units (ReLU)
   
 # Dependencies
-  Python 2.7
+  Caffe (http://caffe.berkeleyvision.org/)
+  Python (https://www.python.org/)
+  numpy (http://www.numpy.org/)
+  matplotlib (https://matplotlib.org/)
+  scikit-image (http://scikit-image.org/)
